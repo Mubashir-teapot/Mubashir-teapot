@@ -1,4 +1,16 @@
-# Mubashir
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+MongoDB+%7C+Docker;Building+Production-Ready+Apps;System+Architecture+%7C+DevOps" alt="Typing SVG" /></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mubashir%20Jamshed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashir-jamshed-khokhar-b58a58338/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mubashir--teapot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mubashir-teapot)
+![Profile Views](https://komarev.com/ghpvc/?username=Mubashir-teapot&style=for-the-badge&color=00B4D8)
+
+</div>
+
+---
+
+## About Me
 
 Full Stack Developer focused on building scalable web applications and backend systems.
 Currently interested in system architecture, startups, automation, AI-assisted development, and production-ready applications.
@@ -36,16 +48,25 @@ Currently interested in system architecture, startups, automation, AI-assisted d
 
 ---
 
-## GitHub Stats
+## What I Build
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubashir-teapot&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mubashir-teapot&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir-teapot&layout=compact&theme=tokyonight&hide_border=true)
+- Production-ready REST APIs with Node.js and Express
+- Full stack web apps with clean frontend and solid backend architecture
+- Containerized deployments using Docker and Nginx on Linux servers
+- Automated workflows and systems with PM2, Cloudflare, and shell scripting
 
 ---
 
-## Connect
+## Currently Working On
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mubashir--teapot-181717?style=for-the-badge&logo=github)](https://github.com/Mubashir-teapot)
+- Deepening knowledge in system design and distributed systems
+- Exploring AI-assisted development workflows
+- Building and shipping production applications
+
+---
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mubashir-teapot&theme=tokyonight&hide_border=true)
+
+</div>
